@@ -1,11 +1,11 @@
 @font-face {
   font-family: Acklin;
-  src: url('http://arifsetiawan.info/acklin.ttf');
+  src: url('Acklin.ttf');
 }
 
 @font-face {
   font-family: Scoder Hand;
-  src: url('http://arifsetiawan.info/ScoderHand.ttf');
+  src: url('ScoderHand.ttf');
 }
 
 body {
@@ -17,6 +17,8 @@ body {
 }
 
 h3 {color:#29b3ec; font-size:45px; font-family: Scoder Hand, Tahoma, Arial;}
+a.scoder {color:#29b3ec; font-size:45px; font-family: Scoder Hand, Tahoma, Arial;}
+a.acklin {color:#29b3ec; font-size:90px; font-family: Acklin, Scoder Hand, Tahoma, Arial;}
 
 #wrapper {
 	width:100%;
